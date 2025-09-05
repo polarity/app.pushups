@@ -3,6 +3,8 @@ Pushup Tracker
 
 Single‑file web app that tracks your pushups using the device camera. Place the phone on the floor (screen up, front camera unobstructed). Each time your face comes near, one pushup is counted. Counts are stored per day; you can view the last 7 days and now manage multiple sessions within a day.
 
+Demo: [https://polarity.productions/pushups/](https://polarity.productions/pushups/)
+
 Core goals
 - Vanilla JS only
 - No CSS/JS frameworks
